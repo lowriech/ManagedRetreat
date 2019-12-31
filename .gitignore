@@ -1,0 +1,10 @@
+# ignore a single file
+.idea
+
+# ignore an entire directory
+/data/
+/outputs/
+/.idea
+/src/__pycache__/
+/venv/lib/
+/venv/bin/
